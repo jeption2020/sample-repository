@@ -1,2 +1,2 @@
 # sample-repository
-We have edited the readme file
+We have edited the readme file.
